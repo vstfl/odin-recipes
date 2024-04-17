@@ -1,0 +1,26 @@
+
+
+
+ul {
+    font-size: 24px;
+}
+
+.sherry {
+    font-weight: bold;
+    font-size: 48px;
+    color: lightpink;
+    background-color: green;
+    text-align: center
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: auto;
+}
+
+.ingredients li{
+    font-style: italic
+}
