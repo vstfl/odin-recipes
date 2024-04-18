@@ -24,3 +24,10 @@ img {
 .ingredients li{
     font-style: italic
 }
+
+.listy li{
+    margin: 20px;
+    padding: 4px;
+    background: lightgrey;
+    border: 1px dotted purple;
+}
